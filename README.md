@@ -44,11 +44,11 @@ la creation du classe CompteRestController qui permet de retourner la liste des 
 ![image](https://user-images.githubusercontent.com/102171913/163635581-43cc01d6-ef39-4420-8920-d4df3e50a28f.png)
 
 
-#### Reamarque:
+#### Remarque:
 
 l'annotation '@GetMapping' contient une expression d’URL qui permet d'afficher tous les comptes 
 
-puis on a ajouté une methode qui permer d'afficher un compte par son id:
+puis on a ajouté une methode qui permer d'afficher un compte par son code:
 
 ![image](https://user-images.githubusercontent.com/102171913/163635454-2b109489-105f-4f69-9f5c-4835702238f4.png)
 ![image](https://user-images.githubusercontent.com/102171913/163635475-b1d982b5-5aa3-4414-b5d8-6af7f2da5d76.png)
